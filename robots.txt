@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--yfrvkt1gt27f60bewg.com/sitemap.xml
